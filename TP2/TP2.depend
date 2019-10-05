@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1570243093 source:d:\tecnicatura programacion\programacion\programacion1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"arrayEmployees.h"
+	"funciones.h"
+
+1570241995 d:\tecnicatura programacion\programacion\programacion1\tp2\arrayemployees.h
+
+1570241995 source:d:\tecnicatura programacion\programacion\programacion1\tp2\arrayemployees.c
+	"arrayEmployees.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1570243093 d:\tecnicatura programacion\programacion\programacion1\tp2\funciones.h
+
+1570243126 source:d:\tecnicatura programacion\programacion\programacion1\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

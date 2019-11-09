@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1573102414 source:c:\users\usuario\desktop\programacion1-master\tp3\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"parser.h"
+
+1573039685 c:\users\usuario\desktop\programacion1-master\tp3\tp3\win_32\linkedlist.h
+
+1573101247 c:\users\usuario\desktop\programacion1-master\tp3\tp3\win_32\employee.h
+
+1573039685 c:\users\usuario\desktop\programacion1-master\tp3\tp3\win_32\controller.h
+
+1573039685 c:\users\usuario\desktop\programacion1-master\tp3\tp3\win_32\parser.h
+
+1573101620 source:c:\users\usuario\desktop\programacion1-master\tp3\tp3\win_32\employee.c
+	"Employee.h"
+	"LinkedList.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1573100723 source:c:\users\usuario\desktop\programacion1-master\tp3\tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1573101743 source:c:\users\usuario\desktop\programacion1-master\tp3\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1573262638 source:d:\tecnicatura programacion\programacion\programacion1\tp3\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"parser.h"
+	"imput.h"
+
+1573178921 d:\tecnicatura programacion\programacion\programacion1\tp3\tp3\win_32\linkedlist.h
+
+1573178921 d:\tecnicatura programacion\programacion\programacion1\tp3\tp3\win_32\employee.h
+
+1573186537 d:\tecnicatura programacion\programacion\programacion1\tp3\tp3\win_32\controller.h
+
+1573178921 d:\tecnicatura programacion\programacion\programacion1\tp3\tp3\win_32\parser.h
+
+1573262899 source:d:\tecnicatura programacion\programacion\programacion1\tp3\tp3\win_32\employee.c
+	"Employee.h"
+	"LinkedList.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1573262638 source:d:\tecnicatura programacion\programacion\programacion1\tp3\tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1573178921 source:d:\tecnicatura programacion\programacion\programacion1\tp3\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1573184206 source:d:\tecnicatura programacion\programacion\programacion1\tp3\tp3\win_32\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"imput.h"
+
+1573184206 d:\tecnicatura programacion\programacion\programacion1\tp3\tp3\win_32\imput.h
+
